@@ -1,6 +1,10 @@
-<? include '_head.php'; ?>
+<? include '_doctype.php'; ?>
 <body>
 	<? include '_chromeframe.php'; ?>
+	<head>
+	<title>LincePlate</title>
+	<?php include('_head.php') ?>
+	</head> 
     <div class="wrapper">	
 		<? include '_header.php'; ?>
 
